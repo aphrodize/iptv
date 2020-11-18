@@ -7,6 +7,15 @@
 	
 
 	  {
+			"name": "กีฬาพื้นบ้าน",
+			"image": "https://i.ibb.co/XbzM7VL/kaichon.png",
+			"url": "https://bit.ly/other-sport",
+			"import": false
+		},	
+
+
+
+	  {
 			"name": "ช่องดิจิตอล ทีวีไทย",
 			"image": "http://aosat.igetweb.com/article/art_42144142.png",
 			"url": "http://tiny.cc/thaitv01",
