@@ -86,6 +86,13 @@
 			"url": "http://tiny.cc/aseantv",
                         "import": false
 		},
+		
+		{
+			"name": "Backup",
+			"image": "https://i.ibb.co/Snqq8y3/backup.png",
+			"url": "https://bit.ly/backup-ch",
+                        "import": false
+		},
 
 		
 		
