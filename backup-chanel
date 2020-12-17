@@ -9,12 +9,52 @@
 
 {
 "name": "True Premier 1",  
-"image": "https://i.ibb.co/0GHkkt1/true-premier1.png",  
+"image": "https://i.ibb.co/8m84z3q/20200206160711premier-football-hd-1.jpg",  
 "url": "https://ball8k.com/m/ch.php?stream=epl1",
 "playInNatPlayer": "true"
 },
 
+{
+"name": "True Premier 2",  
+"image": "https://i.ibb.co/HnYfwyV/20200206160824premier-football-hd-2.jpg",  
+"url": "https://ball8k.com/m/ch.php?stream=epl2",
+"playInNatPlayer": "true"
+},
 
+{
+"name": "True Premier 3",  
+"image": "https://i.ibb.co/54BkpSr/20200206160838premier-football-hd-3.jpg",  
+"url": "https://ball8k.com/m/ch.php?stream=epl3",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Premier 4",  
+"image": "https://i.ibb.co/MN5WC3j/20200206161035premier-football-hd-4.jpg",  
+"url": "https://ball8k.com/m/ch.php?stream=epl4",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Bein Sport 1",  
+"image": "https://i.ibb.co/J77cZDT/20200206204154-Bein-1.jpg",  
+"url": "https://ball8k.com/m/ch.php?stream=bein1",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Bein Sport 2",  
+"image": "https://i.ibb.co/gSrcmgs/20200206204215-Bein-2.jpg",  
+"url": "https://ball8k.com/m/ch.php?stream=bein2",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Sport HD1",  
+"image": "https://i.ibb.co/6NKSky9/20200206211044-True-HD1.jpg",  
+"url": "https://ball8k.com/m/ch.php?stream=truesporthd",
+"playInNatPlayer": "true"
+},
 
 	]
 }
